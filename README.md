@@ -1,15 +1,15 @@
 - test -
 
-'''javascript
+```javascript
 function test()
 {
 
 }
-'''
-'''json
+```
+```json
 {"key":"value",
 "null":null}
-'''
+```
 
 
 test --
